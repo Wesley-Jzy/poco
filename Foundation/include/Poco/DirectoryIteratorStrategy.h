@@ -23,7 +23,7 @@
 #include <stack>
 #include <queue>
 #include <functional>
-
+#include <stl_function>
 
 namespace Poco {
 
